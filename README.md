@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hey!  I'm Leire Requena Garcia
 
-<!--
-**leirereqgar/leirereqgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying computer engineering at [University of Granada](https://www.ugr.es/).
 
-Here are some ideas to get you started:
+### 💾 Languages I know and use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="C++" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"/>](https://en.wikipedia.org/wiki/C%2B%2B)
+
+[<img align="left" alt="Python" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1920px-Python_logo_and_wordmark.svg.png"/>](https://en.wikipedia.org/wiki/Python_(programming_language))
+
+[<img align="left" alt="LaTex" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LaTeX_project_logo_bird.svg/1920px-LaTeX_project_logo_bird.svg.png"/>](https://en.wikipedia.org/wiki/LaTeX)
+
+*Planning to learn more*
+
+### 🚀 Technologies I like
+
+[<img align="left" alt="Linux" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png"/>](https://en.wikipedia.org/wiki/Linux)
+
+[<img align="left" alt="Git" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"/>](https://en.wikipedia.org/wiki/Git)
+
+[<img align="left" alt="Markdown" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png"/>](https://en.wikipedia.org/wiki/Markdown)
+
+
+
