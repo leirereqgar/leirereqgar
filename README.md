@@ -10,6 +10,10 @@ I'm currently studying computer engineering at [University of Granada](https://w
 
 [<img align="left" alt="LaTex" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LaTeX_project_logo_bird.svg/1920px-LaTeX_project_logo_bird.svg.png"/>](https://en.wikipedia.org/wiki/LaTeX)
 
+[<img align="left" alt="HTML5" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"/>](https://en.wikipedia.org/wiki/HTML5)
+
+[<img align="left" alt="HTML5" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png"/>](https://en.wikipedia.org/wiki/CSS)
+
 *Planning to learn more*
 
 ### 🚀 Technologies I like
