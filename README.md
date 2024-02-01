@@ -12,7 +12,11 @@ I'm currently studying computer engineering at [University of Granada](https://w
 
 [<img align="left" alt="HTML5" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"/>](https://en.wikipedia.org/wiki/HTML5)
 
-[<img align="left" alt="HTML5" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png"/>](https://en.wikipedia.org/wiki/CSS)
+[<img align="left" alt="CSS3" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png"/>](https://en.wikipedia.org/wiki/CSS)
+
+[<img align="left" alt="JavaScript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png"/>]([https://en.wikipedia.org/wiki/Ja](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n))
+
+[<img align="left" alt="Java" height="30px" src="https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg"/>](https://en.wikipedia.org/wiki/CSS](https://en.wikipedia.org/wiki/Java_(programming_language)))
 
 *Planning to learn more*
 
