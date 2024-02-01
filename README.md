@@ -16,7 +16,7 @@ I'm currently studying computer engineering at [University of Granada](https://w
 
 [<img align="left" alt="JavaScript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png"/>]([https://en.wikipedia.org/wiki/Ja](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n))
 
-[<img align="left" alt="Java" height="30px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/>](https://en.wikipedia.org/wiki/CSS](https://en.wikipedia.org/wiki/Java_(programming_language)))
+[<img align="left" alt="Java" height="30px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/>](https://en.wikipedia.org/wiki/CSS](https://en.wikipedia.org/wiki/Java_(programming_language))
 
 *Planning to learn more*
 
